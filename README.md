@@ -1,2 +1,3 @@
-Project on materials of the second lecture
-Space filling curves (Gilbert curve)
+Project on materials of the second lecture.
+
+Space filling curves (Gilbert curve).
