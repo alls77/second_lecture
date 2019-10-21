@@ -17,7 +17,7 @@ class GilbertCurve(Curve):
     """"Gilbert Curve"""
 
     def __init__(self, order):
-        Curve.__init__(self, order)
+        super().__init__(order)
 
         self.l_system.alphabet = {'A', 'B'}
         self.l_system.constants = {'F', '+', '-'}
